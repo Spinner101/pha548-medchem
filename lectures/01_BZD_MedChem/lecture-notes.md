@@ -1,113 +1,112 @@
-# 📘 Medicinal Chemistry of Benzodiazepine Sedative-Hypnotics
-
-**Duration:** 75–90 minutes  
-**Course:** PHA 548 Pharmacology & Medicinal Chemistry  
-**Reference:** *Foye’s Principles of Medicinal Chemistry, 8th Ed.*
+# Medicinal Chemistry of Benzodiazepine Sedative-Hypnotics
+**PHA 548 – Hampton University**  
+**Reference:** Foye’s Principles of Medicinal Chemistry, 8th Ed.
 
 ---
 
-## 🎯 Learning Objectives
+## Mechanism of Action — GABAA Allosteric Modulation
 
-By the end of this lecture, students will be able to:
+BZDs bind at **α-γ interface** of GABAA → ↑ **frequency** of channel openings.  
+Require **endogenous GABA** → overdose safety advantage vs barbiturates.
 
-1️⃣ Explain how benzodiazepines interact with the α–γ GABAA receptor interface  
-2️⃣ Analyze SAR governing affinity, potency, and subtype preference  
-3️⃣ Predict pharmacokinetic behavior based on structural modifications  
-4️⃣ Evaluate design improvements leading to remimazolam  
+![BZD binding site](figures/BZ_Allosteric_Binding.jpg)
 
 ---
 
-## 1️⃣ GABAA Receptors & Benzodiazepine MOA
+## Required Pharmacophore
 
-- Pentameric Cl⁻ channel: **2α + 2β + 1γ**
-- **BZD binding** = α–γ interface (not the GABA site)
-- ↑ **frequency** of GABA-induced channel openings → hyperpolarization
-- **GABA required** (major safety distinction from barbiturates)
+Three essential structural elements:
 
-**α-subunit selectivity**
+- **C7 electronegative substituent**
+- **N1-C2 carbonyl**
+- **C5 phenyl (Ring C)**
 
-| Subunit | Functional Effect |
-|---------|-----------------|
-| α1 | Sedation, amnesia |
-| α2 / α3 | Anxiolysis, muscle relaxation |
-| α5 | Cognitive impairment |
+![Backbone and examples](figures/figure_12.6.jpg)
 
 ---
 
-## 2️⃣ Required Benzodiazepine Pharmacophore
+## Structure–Activity Relationships (SAR)
 
-**5-phenyl-1,4-benzodiazepine-2-one**
+| Modification | Consequence |
+|-------------|-------------|
+| Remove C7-Cl | ↓ potency / ↓ affinity |
+| Add C3-OH | Faster clearance via conjugation |
+| Add bulky group para-C5 | Inactive (steric hindrance) |
+| Triazolo/imidazo fusion | Protects oxidative soft spots |
+| Ester appendage | Ultra-short, soft-drug behavior |
 
-| Feature | Why it’s required |
-|--------|------------------|
-| **C7 electronegative group** (Cl, Br, NO₂) | ↑ receptor affinity via electronic effects |
-| **C5 phenyl ring** | Aromatic π-stacking with receptor site |
-| **N1–C2 carbonyl** | Essential H-bond anchoring |
-
-Color-coding used in slides:  
-🟪 Ring A 🟦 Ring B 🟥 Ring C
-
----
-
-## 3️⃣ Structure–Activity Relationships (SAR)
-
-| Site | MedChem Rule | Effect |
-|------|--------------|--------|
-| **C7 halo-substitution** | Essential | ↑ potency and affinity |
-| **C5 phenyl** | Must remain planar/aromatic | Required for agonism |
-| **2′-o-halogenation** | ↑ lipophilicity | ↑ CNS penetration |
-| **p-substitution on phenyl** | Steric clash | **Inactive** |
-| **C3–OH addition** | Direct Phase II conjugation | Shorter duration |
-| **Triazolo/imidazo fused ring** | Metabolic shielding | ↑ potency, ↓ active metabolites |
-| **Ester moiety (Remimazolam)** | Hydrolytic cleavage | **Ultra-short activity** |
-
-> 📝 Students must be able to infer PK from SAR.
+> Medicinal chemistry controls: potency, selectivity, duration, toxicity.
 
 ---
 
-## 4️⃣ Metabolism Strategy Drives Duration
+## PK-Driven SAR Examples
 
-| Drug | Key SAR Feature | Enzyme/Route | PK Outcome |
-|------|----------------|--------------|------------|
-| **Flurazepam** | N-alkyl | CYP3A4 oxidation | Long-acting active metabolites |
-| **Quazepam** | Lipophilic substitutions | CYP3A4 | Accumulation risk |
-| **Estazolam** | Triazolo ring | Reduced oxidation | Intermediate duration |
-| **Triazolam** | Compact structure | Oxidation → inactive | Short-acting |
-| **Temazepam** | C3–OH | Direct glucuronidation | Rapid clearance |
-| **Remimazolam** | Ester side chain | Carboxylesterases | **Ultra-short duration** |
+### Flurazepam & Quazepam  
+Long-acting **active metabolites** → residual sedation
 
-**Medicinal Chemistry Theme:**  
-> Replace **oxidative liabilities** with **hydrolytic liabilities**
+![Metabolism](figures/figure_12.7.jpg)
 
 ---
 
-## 5️⃣ Active Learning: Structural Prediction Exercise
+### Temazepam  
+**Phase II** route → rapid offset
 
-| Modification | Predicted Effect | Chemical Reasoning |
-|-------------|-----------------|------------------|
-| Remove 7-Cl → replace with H | ↓ potency | Loss of EWG reduces affinity |
-| Add bulky para-group | **Inactive** | Steric hindrance at receptor |
-| Add –OH at C3 | ↓ t½ | Promotes Phase II clearance |
-| Add fused triazole ring | ↑ potency | Metabolic shielding |
-| Add ester appendage | Ultra-short duration | Rapid esterase hydrolysis |
-
-Students annotate structures and justify changes.
+![Glucuronidation](figures/unnumbered_figure_12.6.jpg)
 
 ---
 
-## ✔ Key Takeaway Summary
+### Triazolobenzodiazepines  
+Block oxidation with **fused ring**
 
-| Structure Change | Pharmacological Result |
-|-----------------|----------------------|
-| ↑ Lipophilicity | ↑ CNS entry, ↑ duration |
-| ↑ Oxidative liability | Active metabolite accumulation |
-| ↑ Conjugation preference | Faster elimination |
-| Fused rings / shielding | Shorter action, more predictable PK |
-| Ester linkages | Rapid offset → procedural sedation |
+![Triazolo fusion](figures/figure_12.19.jpg)
 
 ---
 
-📌 **Flumazenil (molecular note only):**  
-Competitive antagonist at the **same α–γ benzodiazepine site**.
+## Comparative PK Table
+
+![Table 12.2](figures/table_12.2.jpg)
+
+| Drug | Major Metabolic Route | Approx. Outcome |
+|------|----------------------|----------------|
+| Flurazepam | CYP N-dealkylation | Very long-acting |
+| Quazepam | CYP oxidation | Accumulation |
+| Estazolam | CYP3A4 | Moderate duration |
+| Triazolam | Oxidation → conjugation | Short-acting |
+| Temazepam | Glucuronidation | Rapid clearance |
+| Remimazolam | Ester hydrolysis | Ultra-short |
 
 ---
+
+## Remimazolam — Soft-Drug Strategy
+
+![Remimazolam](figures/figure_12.25.jpg)
+
+- Ester easily hydrolyzed → non-BZD inactive metabolite  
+- Precise sedation onset/offset  
+- Minimal hepatic metabolism
+
+---
+
+## Practice — Predicting Effects
+
+Given a structure, predict:
+1) **Binding** change  
+2) **Duration** change  
+
+*Explain in SAR terms.*
+
+---
+
+### Key Concept Summary
+
+| Design Feature | Clinical Effect |
+|---------------|----------------|
+| ↑ Lipophilicity | ↑ CNS entry & duration |
+| N-alkyl chains | Long-acting metabolite formation |
+| C3-OH | Rapid conjugation & clearance |
+| Fused rings | Metabolism protection → shorter |
+| Soft-drug ester | Fast turnover → procedural control |
+
+---
+
+📌 End of Lecture Notes
