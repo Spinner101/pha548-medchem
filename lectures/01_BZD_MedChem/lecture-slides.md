@@ -142,7 +142,7 @@ By the end of this lecture, you will be able to:
 
 ## Remimazolam — Modern Medicinal Chemistry
 
-![Remimazolam SAR](Remimazolam-metabolism.jpg)
+![Remimazolam](figures/Remimazolam-metabolism.jpg)
 *Soft drug designed for procedural control*
 
 - Carboxylesterase hydrolysis → inactive metabolite  
