@@ -47,6 +47,7 @@ By the end of this lecture, you will be able to:
 ## Essential Benzodiazepine Pharmacophore 
 
 ![Backbone](figures/BZ_backbone.jpg)
+
 *5-phenyl-1,4-benzodiazepine-2-one backbone**
 
 - Ring A: C7 **electronegative** group  
