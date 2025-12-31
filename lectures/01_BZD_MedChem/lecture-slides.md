@@ -45,7 +45,7 @@ By the end of this lecture, you will be able to:
 
 ## Benzodiazepine Binding Interface
 
-![GABAA binding site](figures/unnumbered_figure_12.5.jpg)
+![GABAA binding site](figures/BZ_Allosteric_Binding.jpg)
 *BZDs bind at α–γ interface; modulate GABA affinity*
 
 ---
@@ -142,7 +142,7 @@ By the end of this lecture, you will be able to:
 
 ## Remimazolam — Modern Medicinal Chemistry
 
-![Remimazolam SAR](figures/figure_12.25.jpg)
+![Remimazolam SAR](Remimazolam-metabolism.jpg)
 *Soft drug designed for procedural control*
 
 - Carboxylesterase hydrolysis → inactive metabolite  
