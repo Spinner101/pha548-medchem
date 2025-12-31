@@ -79,7 +79,7 @@ Block oxidation with **fused ring**
 
 ## Remimazolam — Soft-Drug Strategy
 
-![Remimazolam](figures/figure_12.25.jpg)
+![Remimazolam](figures/Remimazolam-metabolism.jpg)
 
 - Ester easily hydrolyzed → non-BZD inactive metabolite  
 - Precise sedation onset/offset  
