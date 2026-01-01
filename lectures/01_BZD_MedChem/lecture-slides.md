@@ -94,8 +94,10 @@ By the end of this lecture, you will be able to:
 ## CYP Oxidation — Classical BZD Metabolism
 
 ![Flurazepam metabolism](figures/flurazepam_metabolism.jpg)
-*Long-acting metabolites → residual sedation*
 
+*Long-acting metabolites → residual sedation*
+*Slow elimination of multiple active metabolites*
+*Residual hypnotic effects, including excessive daytime drowsiness and over-sedation as well as cognitive decline and confusion, are common and clinically relevant adverse effects.*
 ---
 
 **Temazepam circumvents phase 1 metabolism**  
@@ -114,10 +116,16 @@ By the end of this lecture, you will be able to:
 
 ---
 
-### Triazolo SAR Advantage
+### Triazolobenzodiazepines SAR Advantage
+** Estazolam and Triazolam **
+*Estazolam Metabolism *
 
-![Triazolo protection](figures/figure_12.19.jpg)
+
+![Triazolo protection](figures/estazolam_metabolism.jpg)
+
 *Fused ring blocks oxidative liability → shorter duration*
+*1,4-triazolo ring blocks (steric hindrance) oxidative metabolism typical of the benzodiazepines*
+*Estazolam metabolites have weak GABAA pharmacological activity*
 
 ---
 
