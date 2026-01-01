@@ -111,7 +111,7 @@ By the end of this lecture, you will be able to:
 
 ### Phase II Conjugation Pathway
 
-![Temazepam glucuronidation](figures/unnumbered_figure_12.6.jpg)
+![Temazepam glucuronidation](figures/Temazepam_metabolism.jpg)
 *Direct conjugation bypasses CYP450-dependent oxidation*
 
 ---
