@@ -101,18 +101,15 @@ By the end of this lecture, you will be able to:
 ---
 
 **Temazepam circumvents phase 1 metabolism**  
+-**Temazepam (unique BZ) due to position 3-OH group**
+*Direct conjugation bypasses CYP450-dependent oxidation*
+-**Phase II Conjugation Pathway**
+
 ![Temazepam metabolism](figures/Temazepam_metabolism.jpg)
 
 
 - **C3-OH** → Phase II glucuronidation  (O-glucuronidation)
 - **Rapid** elimination  
-
----
-
-### Phase II Conjugation Pathway
-
-![Temazepam glucuronidation](figures/Temazepam_metabolism.jpg)
-*Direct conjugation bypasses CYP450-dependent oxidation*
 
 ---
 
