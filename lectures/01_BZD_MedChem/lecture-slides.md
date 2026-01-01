@@ -55,9 +55,10 @@ By the end of this lecture, you will be able to:
 - Ring C: **phenyl ring** (π-stacking)
 
 ---
+## Sedative-Hypnotic Benzodiazepines ##
 
 ![SH-BZDs](figures/BZ_Sedative-hypnotic.jpg)
-*Five sedative-hypnotic benzodiazepines (Foye Fig. 12.6)*
+* Benzodiazepine backbone indicative for Sedative-Hypnotic application (Foye Fig. 12.6)*
 
 ---
 
@@ -101,7 +102,7 @@ By the end of this lecture, you will be able to:
 ![Temazepam metabolism](figures/Temazepam_metabolism.jpg)
 
 
-- **C3-OH** → Phase II glucuronidation  
+- **C3-OH** → Phase II glucuronidation  (O-glucuronidation)
 - **Rapid** elimination  
 
 ---
