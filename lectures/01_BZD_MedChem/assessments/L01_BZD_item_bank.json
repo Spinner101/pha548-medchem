@@ -1,0 +1,222 @@
+[
+  {
+    "id": "L01_Q1",
+    "stem": "Benzodiazepines exert their sedative-hypnotic effect at the GABAA receptor primarily by:",
+    "options": [
+      "Increasing the duration of chloride channel opening in the absence of GABA",
+      "Increasing the frequency of GABA-dependent chloride channel opening",
+      "Directly opening the chloride channel without GABA",
+      "Increasing the number of GABAA receptors expressed on the cell surface"
+    ],
+    "correct_option_index": 1,
+    "blooms_level": "Understand",
+    "naplex_domain": "Pharmacology / Mechanism of Action",
+    "acpe_outcomes": ["1.1"],
+    "difficulty_target_p": 0.75,
+    "discrimination_target_d": 0.3,
+    "topic_tags": ["BZDs", "MOA", "GABAA"],
+    "distractor_rationale": {
+      "0": "Confuses BZD effect with barbiturates (duration vs frequency).",
+      "2": "Assumes direct agonist action instead of allosteric modulation.",
+      "3": "Reflects misunderstanding of acute modulation vs long-term receptor regulation."
+    }
+  },
+  {
+    "id": "L01_Q2",
+    "stem": "The primary benzodiazepine binding site on the GABAA receptor is located at the interface between:",
+    "options": [
+      "β and γ subunits",
+      "α and β subunits",
+      "α and γ subunits",
+      "Two α subunits"
+    ],
+    "correct_option_index": 2,
+    "blooms_level": "Remember",
+    "naplex_domain": "Pharmacology / Mechanism of Action",
+    "acpe_outcomes": ["1.1"],
+    "difficulty_target_p": 0.7,
+    "discrimination_target_d": 0.3,
+    "topic_tags": ["BZDs", "MOA", "ReceptorStructure"],
+    "distractor_rationale": {
+      "0": "Plausible but incorrect interface.",
+      "1": "Confuses BZD site with GABA binding site.",
+      "3": "Non-physiologic binding interface; tests receptor structure knowledge."
+    }
+  },
+  {
+    "id": "L01_Q3",
+    "stem": "For classical benzodiazepines, the presence of which group at the C7 position on Ring A is most strongly associated with increased binding affinity and potency?",
+    "options": [
+      "Bulky tert-butyl group",
+      "Alkyl chain without heteroatoms",
+      "Electronegative substituent such as Cl or NO2",
+      "Primary amine substituent"
+    ],
+    "correct_option_index": 2,
+    "blooms_level": "Apply",
+    "naplex_domain": "Structure–Activity Relationships (SAR)",
+    "acpe_outcomes": ["1.1", "1.2"],
+    "difficulty_target_p": 0.65,
+    "discrimination_target_d": 0.35,
+    "topic_tags": ["BZDs", "SAR", "RingA"],
+    "distractor_rationale": {
+      "0": "Tests misconception that bulk always improves potency.",
+      "1": "Non-electronegative; does not provide classic C7 SAR benefit.",
+      "3": "Would disrupt electronic environment and pharmacophore."
+    }
+  },
+  {
+    "id": "L01_Q4",
+    "stem": "Introducing a 3-hydroxyl (3-OH) group into the benzodiazepine scaffold (as in temazepam) primarily affects pharmacokinetics by:",
+    "options": [
+      "Promoting direct glucuronidation and shortening half-life",
+      "Preventing Phase II conjugation and prolonging half-life",
+      "Increasing lipophilicity and CNS penetration",
+      "Creating multiple long-acting active metabolites"
+    ],
+    "correct_option_index": 0,
+    "blooms_level": "Apply",
+    "naplex_domain": "Pharmacokinetics / Biotransformation",
+    "acpe_outcomes": ["1.1", "2.1"],
+    "difficulty_target_p": 0.6,
+    "discrimination_target_d": 0.35,
+    "topic_tags": ["BZDs", "SAR", "3OH", "Metabolism"],
+    "distractor_rationale": {
+      "1": "Reverses correct Phase II concept.",
+      "2": "3-OH generally decreases lipophilicity.",
+      "3": "Confuses with long-acting N-alkyl BZDs."
+    }
+  },
+  {
+    "id": "L01_Q5",
+    "stem": "Which structural feature best explains the ultra-short duration of remimazolam compared with midazolam?",
+    "options": [
+      "Increased affinity for α2/α3 subunit–containing receptors",
+      "Highly lipophilic N-alkyl side chain",
+      "Lack of a 3-hydroxyl group on Ring B",
+      "Ester-containing side chain rapidly hydrolyzed by esterases"
+    ],
+    "correct_option_index": 3,
+    "blooms_level": "Analyze",
+    "naplex_domain": "Drug Design / Advanced Pharmacology",
+    "acpe_outcomes": ["1.1", "4.1"],
+    "difficulty_target_p": 0.55,
+    "discrimination_target_d": 0.35,
+    "topic_tags": ["Remimazolam", "SoftDrug", "SAR"],
+    "distractor_rationale": {
+      "0": "Subunit preference does not explain ultra-short PK.",
+      "1": "Would generally prolong duration.",
+      "2": "Not the primary driver of ultra-short t1/2."
+    }
+  },
+  {
+    "id": "L01_Q6",
+    "stem": "Stimulation of which GABAA α subunit is most closely associated with sedation and anterograde amnesia?",
+    "options": [
+      "α2",
+      "α1",
+      "α3",
+      "α5"
+    ],
+    "correct_option_index": 1,
+    "blooms_level": "Understand",
+    "naplex_domain": "Pharmacology / Toxicology",
+    "acpe_outcomes": ["1.1"],
+    "difficulty_target_p": 0.7,
+    "discrimination_target_d": 0.3,
+    "topic_tags": ["BZDs", "ReceptorSubtype"],
+    "distractor_rationale": {
+      "0": "Associated more with anxiolysis.",
+      "2": "Also more anxiolytic/muscle relaxant.",
+      "3": "Cognitive effects but not primary sedative target."
+    }
+  },
+  {
+    "id": "L01_Q7",
+    "stem": "A 70-year-old patient with cirrhosis requires a short course of therapy for insomnia. Which benzodiazepine is MOST appropriate from a metabolic standpoint?",
+    "options": [
+      "Flurazepam",
+      "Diazepam",
+      "Temazepam",
+      "Quazepam"
+    ],
+    "correct_option_index": 2,
+    "blooms_level": "Analyze",
+    "naplex_domain": "Patient-Specific Therapy / Pharmacotherapy",
+    "acpe_outcomes": ["2.1", "3.1"],
+    "difficulty_target_p": 0.6,
+    "discrimination_target_d": 0.35,
+    "topic_tags": ["BZDs", "HepaticImpairment", "PK"],
+    "distractor_rationale": {
+      "0": "Long-acting with active metabolites.",
+      "1": "Long-acting and Phase I–dependent.",
+      "3": "Highly lipophilic with active metabolites and accumulation risk."
+    }
+  },
+  {
+    "id": "L01_Q8",
+    "stem": "Which structural pattern is most associated with formation of long-acting active metabolites and clinical accumulation?",
+    "options": [
+      "3-hydroxyl group on Ring B",
+      "Ester side chain designed for esterase hydrolysis",
+      "Unsubstituted phenyl ring at C5",
+      "N-alkyl side chain and high lipophilicity"
+    ],
+    "correct_option_index": 3,
+    "blooms_level": "Analyze",
+    "naplex_domain": "Pharmacokinetics / Biotransformation",
+    "acpe_outcomes": ["1.1", "2.1"],
+    "difficulty_target_p": 0.55,
+    "discrimination_target_d": 0.35,
+    "topic_tags": ["BZDs", "Metabolism", "ActiveMetabolites"],
+    "distractor_rationale": {
+      "0": "Associated with shorter duration via Phase II.",
+      "1": "Characteristic of soft drugs with short t1/2.",
+      "2": "Necessary for binding but not primary driver of accumulation."
+    }
+  },
+  {
+    "id": "L01_Q9",
+    "stem": "Flumazenil reverses the effects of benzodiazepines primarily by:",
+    "options": [
+      "Enhancing GABA binding to the GABAA receptor",
+      "Blocking the NMDA receptor channel",
+      "Competitively antagonizing the benzodiazepine binding site on GABAA receptors",
+      "Inhibiting benzodiazepine metabolism in the liver"
+    ],
+    "correct_option_index": 2,
+    "blooms_level": "Understand",
+    "naplex_domain": "Pharmacology / Toxicology (Antidotes)",
+    "acpe_outcomes": ["1.1"],
+    "difficulty_target_p": 0.75,
+    "discrimination_target_d": 0.3,
+    "topic_tags": ["Flumazenil", "Antidote"],
+    "distractor_rationale": {
+      "0": "Describes BZD action, not flumazenil.",
+      "1": "Irrelevant receptor system.",
+      "3": "Mechanism is receptor-level, not metabolic."
+    }
+  },
+  {
+    "id": "L01_Q10",
+    "stem": "Chronic use of benzodiazepine sedative-hypnotics most commonly leads to which change in sleep architecture?",
+    "options": [
+      "Increased slow-wave (Stage 3–4) sleep and increased REM sleep",
+      "Decreased slow-wave (Stage 3–4) sleep and decreased REM sleep",
+      "Increased REM sleep and decreased Stage 2 sleep",
+      "Decreased Stage 2 sleep and increased awakenings"
+    ],
+    "correct_option_index": 1,
+    "blooms_level": "Understand",
+    "naplex_domain": "Therapeutic Effects / Adverse Effects",
+    "acpe_outcomes": ["1.1", "2.1"],
+    "difficulty_target_p": 0.6,
+    "discrimination_target_d": 0.3,
+    "topic_tags": ["BZDs", "SleepArchitecture"],
+    "distractor_rationale": {
+      "0": "Opposite of typical BZD effect.",
+      "2": "Misrepresents REM behavior under BZDs.",
+      "3": "Contradicts decreased awakenings typically seen acutely."
+    }
+  }
+]
