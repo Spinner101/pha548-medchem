@@ -22,7 +22,7 @@ footer: "PHA 548 | Hampton University | PY1 PharmD"
 
 ## 🎯 Learning Objectives
 
-1. **MOA:** Describe BZD interaction at the $GABA_A$ $\alpha$-$\gamma$ interface.
+1. **MOA:** Describe BZD interaction at the $GABA_A$ α-γ interface.
 2. **SAR:** Identify structural features driving potency and selectivity.
 3. **PK/PD:** Predict metabolic pathways based on chemical substituents.
 4. **Innovation:** Evaluate "Soft Drug" design (Remimazolam).
