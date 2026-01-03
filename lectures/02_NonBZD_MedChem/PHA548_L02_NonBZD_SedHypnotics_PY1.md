@@ -92,8 +92,8 @@ Short lipophilic scaffold → rapid distribution & clearance.
 - Heteroaromatic core  
 - Nitrile group tunes electronics
 
-c
 
+![Z_Drug_2](figures/zaleplon.jpg)
 
 **Metabolism**
 - Major: **aldehyde oxidase**  
@@ -101,7 +101,7 @@ c
 - **t½ ~ 1 h → ultra-short**
 
 
-![Z_Drug_met](figures/zalephon_metabolism.jpg)
+![Z_Drug_met_2](figures/zaleplon_metabolism.jpg)
 
 
 **Clinical**
@@ -117,13 +117,14 @@ c
 - Lactam carbonyl anchors receptor  
 - More polar than zolpidem → **longer** duration (5–7 h)
 
-![Z_Drug_met](figures/eszopiclone.jpg)
+![Z_Drug_3](figures/eszopicolone.jpg)
 
+
+![Z_Drug_met_3](figures/eszopicolone_metabolism.jpg)
 
 **Adverse effect**
 - Distinct: dysgeusia (metallic taste)
   
-![Z_Drug_met](figures/eszopiclone_metabolism.jpg)
 
 
 ---
